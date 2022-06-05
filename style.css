@@ -1,0 +1,26 @@
+.container {
+  margin: 3rem auto;
+  max-width: 50rem;
+}
+
+.container p {
+  margin: 0;
+  font-size: 1.4rem;
+}
+
+.header {
+  margin-bottom: 1.5rem;
+  padding: 3rem 0;
+  background-color: #007bff;
+  border-radius: 5px;
+  color: white;
+  text-align: center;
+}
+
+form {
+  margin-bottom: 1rem;
+}
+
+.gastos {
+  margin-bottom: 1.5rem;
+}
